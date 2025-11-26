@@ -23,6 +23,6 @@ document.addEventListener("DOMContentLoaded", function () {
     const btn = document.getElementById("quesBtn");
 
     btn.addEventListener("click", function () {
-        alert("If you have questions, contact me at:\nnborodkin@cps.edu");
+        alert("If you have questions, contact me at: nborodkin@cps.edu");
     });
 });
